@@ -22,3 +22,4 @@ index.md
 - [CSS](themen/css.md)
 - [Windows](themen/windows.md)
 - [Tools](themen/tools.md)
+### GitHub Pages rendert das automatisch als klickbare Navigation.
