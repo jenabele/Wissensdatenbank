@@ -1,5 +1,5 @@
 # Inhaltsverzeichnis
-# TOC ist nur in VS Code sichtbar, nicht auf GitHub Pages.Darum nutzt man [TOC] nur für die lokale Arbeit.  TOC auf GitHub Pages manuelle Variante index.md:
+## TOC ist nur in VS Code sichtbar, nicht auf GitHub Pages.Darum nutzt man [TOC] nur für die lokale Arbeit.  TOC auf GitHub Pages manuelle Variante index.md:
 
 - [Einleitung](#einleitung)
 - [Installation](#installation)
@@ -7,10 +7,9 @@
 - [Zusammenfassung](#zusammenfassung)
 GitHub erzeugt automatisch passende Anker für jede Überschrift.
 
-
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-# oder die HTML‑Variante
+## oder Inhaltsverzeichnis mit HTML‑Variante
 
 <link rel="stylesheet" href="css/wiki.css">
 
