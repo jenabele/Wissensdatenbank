@@ -80,7 +80,7 @@ Falls die Seite nicht sofort erscheint:
 10–30 Sekunden warten und neu laden.
 
 🔍 Häufige Fehler und Lösungen
-|-----------------------------------------------------------------------------------------------------|
+
 |Problem	                                |Ursache	              |Lösung                             |
 |„There isn't a GitHub Pages site here.“	|Keine index.md im Root	|Datei anlegen + committen          |
 |Seite bleibt leer	                      |Datei nicht committed	|Commit durchführen                 |
