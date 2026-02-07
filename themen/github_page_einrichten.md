@@ -81,12 +81,13 @@ Falls die Seite nicht sofort erscheint:
 
 🔍 Häufige Fehler und Lösungen
 
-|Problem	                                |Ursache	              |Lösung                             |
-|„There isn't a GitHub Pages site here.“	|Keine index.md im Root	|Datei anlegen + committen          |
-|Seite bleibt leer	                      |Datei nicht committed	|Commit durchführen                 |
-|CSS wird nicht geladen	                  |Falscher Pfad	        |css/style.css prüfen               |
-|GitHub Pages lässt sich nicht aktivieren	|Repo war privat	      |Repo auf public stellen            |
-|Falscher Ordner gewählt	                |/docs statt /root	    |In Pages‑Einstellungen korrigieren |
+| Problem	                                  | Ursache	               | Lösung                             |
+| ----------------------------------------- | ---------------------- | ----------------------------------|
+| „There isn't a GitHub Pages site here.“	  | Keine index.md im Root | Datei anlegen + committen          |
+| Seite bleibt leer	                        | Datei nicht committed	 | Commit durchführen                 |
+| CSS wird nicht geladen	                  | Falscher Pfad	         | css/style.css prüfen               |
+| GitHub Pages lässt sich nicht aktivieren	| Repo war privat	       | Repo auf public stellen            |
+| Falscher Ordner gewählt	                  | /docs statt /root	     | In Pages‑Einstellungen korrigieren |
 
 🎉 Fertig!
 Deine GitHub‑Pages‑Seite ist jetzt eingerichtet.
